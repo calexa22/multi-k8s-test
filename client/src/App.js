@@ -17,7 +17,7 @@ function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Fib Calculator - Hosted on Kubernetes
+            Fib Calculator - Running in Kubernetes!
           </a>
           <Link to="/">Home</Link>
           <Link to="/otherpage">Other Page</Link>
